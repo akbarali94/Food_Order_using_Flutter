@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26701072441",
+    "project_id": "motel-court",
+    "storage_bucket": "motel-court.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26701072441:android:616f2e9477044403b365e8",
+        "android_client_info": {
+          "package_name": "com.motelcourt.motelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8p7Dp3UVeqYr7RRRK-MqRbFHRj2nU4b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
